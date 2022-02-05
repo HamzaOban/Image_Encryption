@@ -10,7 +10,7 @@
 </a>
 
 ## Developer
-Gaurav Raj - [LinkedIn](https://www.linkedin.com/in/gaurav-raj-5893b0195/)
+Hamza Oban - [LinkedIn](https://www.linkedin.com/in/hamzaoban/)
 
 ## Landing Screen
 <img src='Examples/1.jpg' height='500' >
